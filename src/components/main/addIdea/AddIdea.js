@@ -9,7 +9,7 @@ class Addidea extends React.Component {
                 <h1>Додай свою ідею</h1>
             </div>
             <div className="idea-form">
-                    <form action="index.html">
+                    <form>
                         <input type="text" placeholder="Назва ідеї"/>
                         <textarea name="description" id="description" cols="30" rows="10"
                             placeholder="Опис ідеї"></textarea>
